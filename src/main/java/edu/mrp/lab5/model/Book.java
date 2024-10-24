@@ -3,7 +3,7 @@ package edu.mrp.lab5.model;/*
 @project   Architecture testing
 @class  $444A
 @version  1.0.0
-@since 4.10.2024 - 14.23
+@since 9.10.2024 - 14.23
 */
 
 import lombok.*;
